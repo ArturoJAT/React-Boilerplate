@@ -1,9 +1,11 @@
 ## React-Redux-Router Boilerplate
-run ###`npm install` and use.
+run  
+### `npm install`
+and use.
 
 Features: 
-  Protected Routes.
-
+ - Protected Routes.
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
